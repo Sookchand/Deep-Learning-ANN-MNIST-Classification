@@ -10,8 +10,7 @@ I would like to acknowledge the creators of Keras and TensorFlow for providing t
 
 ## Demo
 ![image](https://user-images.githubusercontent.com/34344439/210118505-5153e50c-52fc-4ce9-b4cf-6c926cdc7495.png)
-
-
+![image](https://user-images.githubusercontent.com/34344439/210118528-487bc254-ec83-4cc9-9280-49b641b91046.png)
 
 ## Tech Stack
 - Numpy: a package for array transformation
